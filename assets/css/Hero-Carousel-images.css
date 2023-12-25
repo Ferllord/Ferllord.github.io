@@ -1,0 +1,22 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+p {
+}
+
+.skills {
+  align-items: center;
+  bottom: 0;
+  color: #767676;
+  display: flex;
+  font-size: 1.7rem;
+  left: 0;
+  /*position: absolute;*/
+}
+
+@media (min-width: 768px) {
+  h2 {
+  }
+}
+
